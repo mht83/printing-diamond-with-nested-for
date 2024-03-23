@@ -1,0 +1,1 @@
+# printing diamond with nested for
